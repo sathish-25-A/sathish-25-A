@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **REACT AND JAVASCRIPT**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Portfolio:https://main--sathish-portfolio-react.netlify.app/</h3>
 <p align="left">
 </p>
 
